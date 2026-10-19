@@ -1,0 +1,2 @@
+# pulse-releases
+Pulse installers
